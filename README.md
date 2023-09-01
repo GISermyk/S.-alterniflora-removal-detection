@@ -5,6 +5,7 @@
 
 3. Result display in Shandong and Fujian
 
+![image](https://github.com/GISermyk/S.-alterniflora-removal-detection/assets/92797972/e621ecbd-4cc7-476a-886b-b9771e806cdb)
 
 Fig. 9. Maps of S. alterniflora removal extent and timing in Shandong, (a)Yellow River Delta (b) Laizhou Bay, (c) Dingzi Bay, (d-e) Jiaozhou Bay and (f) Rushan Bay.
 
