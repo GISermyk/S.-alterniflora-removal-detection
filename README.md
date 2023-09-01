@@ -3,7 +3,7 @@
 1. we proposed a fully automated method based on GEE(Google earth engine) for rapid monitoring of S. alterniflora removal timing and status(removal/no removal) in large-scale coastal wetlands by integrating time-series Landsat 8 and Sentinel-2 imagery.
 2. Developed by Yukui Min,  If you have any question ,please email to 2210902155@cnu.edu.cn
 
-3. Result display in Shandong and Fujian
+3. Results display in Shandong and Fujian
 
 ![image](https://github.com/GISermyk/S.-alterniflora-removal-detection/assets/92797972/e621ecbd-4cc7-476a-886b-b9771e806cdb)
 
