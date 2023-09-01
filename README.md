@@ -20,6 +20,7 @@ The locations of (a)-(d) are illustrated in ①-④ in Fig. 9.
 Fig. 12. Maps of S. alterniflora removal extend and timing in Fujian. (a-b) Sansha Bay, (c) Luoyuan 
 426 Bay, (d) Zhangjiang Estuary, (e) Quanzhou Bay, (f) Fuqing Bay, and (g)Yacheng Bay.
 
+![image](https://github.com/GISermyk/S.-alterniflora-removal-detection/assets/92797972/4f4e5181-a467-4763-882d-a4415ef14470)
 
 Fig.13. Zoomed-in maps of removal extent and timing (left column) and the corresponding time series 
 Landsat 8 and Sentinel-2 false-colour composition (NIR, red ,green) images (second to last column). 
